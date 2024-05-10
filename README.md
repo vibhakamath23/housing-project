@@ -1,6 +1,6 @@
 # Housing Project
 
-This was completed as a project for the CS11 class this semester. Given a data file of houses and their information (included as housing.bigtestdata), this program creates an array of House structs organizing these houses into rows and columns by their lot code. Columns are labeled by letter and rows are assigned by number, beginning with 1. For example, the house with lot code B2 is in the second column and second row in the array. 
+This was completed as a project for Tufts CS11 class. Given a data file of houses and their information (included as housing.bigtestdata), this program creates an array of House structs organizing these houses into rows and columns by their lot code. Columns are labeled by letter and rows are assigned by number, beginning with 1. For example, the house with lot code B2 is in the second column and second row in the array. 
 
 Through a query loop, the user then has the ability to run various commands utilizing the housing array. 
 
